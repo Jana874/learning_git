@@ -13,4 +13,4 @@ A simple workflow is created to automatically deploy a static website to **GitHu
 
 ## URL
 
-https://jana874.github.io/learning_git
+[Visit](https://jana874.github.io/learning_git)
