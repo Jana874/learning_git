@@ -10,3 +10,7 @@ A simple workflow is created to automatically deploy a static website to **GitHu
 - GitHub Pages
 - HTML
 - YAML
+
+## URL
+
+https://jana874/github.io/learning_git
